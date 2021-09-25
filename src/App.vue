@@ -177,10 +177,35 @@
             
             <i class="lni lni-consulting"></i>
             <h4 class="features_title">Assessoria Mensais</h4>
-            <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
-            </p>
+            <ul class="ul-order">
+              <li>
+                Escrituração Fiscal
+              </li>
+              <li>
+                Assessoria Fiscal
+              </li>
+              <li>
+                Folha de Pagamento
+              </li>
+              <li>
+                Escrituração Contábil
+              </li>
+              <li>
+                Consultoria contábil
+              </li>
+              <li>
+                Apoio Empresarial
+              </li>
+              <li>
+                Contabilidade Completa
+              </li>
+              <li>
+                Gestão Financeira
+              </li>
+              <li>
+                Todos os Serviços Necessários
+              </li>
+            </ul>
           </div>
         </div>
         <div class="col-lg-4 col-md-7">
@@ -191,10 +216,29 @@
           >
             <i class="lni lni-invention"></i>
             <h4 class="features_title">Outros Serviços</h4>
-            <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
-            </p>
+            <ul class="ul-order">
+              <li>
+                Declaração de Imposto de renda
+              </li>
+              <li>
+                Regularização de Contabilidade
+              </li>
+              <li>
+                Levantamento de Pendências
+              </li>
+              <li>
+                Alterações Contratuais
+              </li>
+              <li>
+                Encerramento de Empresa
+              </li>
+              <li>
+                Registro em órgãos
+              </li>
+              <li>
+                Outros Serviços
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -213,27 +257,22 @@
                   data-wow-duration="1.3s"
                   data-wow-delay="0.2s"
                 >
-                  About Our Creative Proccess
+                  Quem Somos
                 </h4>
                 <p
                   class="wow fadeInUp"
                   data-wow-duration="1.3s"
                   data-wow-delay="0.4s"
                 >
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  dianonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat, sed diam voluptua. At vero eos et accusam et
-                  justo duo dolores et erebum
+                  A maneira mais fácil de começar é contando a história de como sua empresa nasceu. 
+                  Isso funciona bem quando levou um tempo para acontecer, mesmo se é uma marca recente. 
                 </p>
                 <p
                   class="wow fadeInUp"
                   data-wow-duration="1.3s"
                   data-wow-delay="0.6s"
                 >
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                  diam nonumy eirmod tempor invidunt ut labore etdolore maali
-                  quyam erat, sed diam voluptua. At vero eos et accusam et justo
-                  duo dolores
+                  Comece com os fundadores originais e as suas razões para começar o negócio.
                 </p>
               </div>
               <a
@@ -272,15 +311,14 @@
               data-wow-duration="1.3s"
               data-wow-delay="0.2s"
             >
-              Our Services
+              Serviços Contábeis
             </h4>
             <p
               class="wow fadeInUp"
               data-wow-duration="1.3s"
               data-wow-delay="0.4s"
             >
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt labor dolore.
+              Nossos Consultores estão aqui prontos para atendê-lo!
             </p>
           </div>
         </div>
@@ -293,10 +331,9 @@
             data-wow-delay="0.2s"
           >
             <i class="lni lni-briefcase"></i>
-            <h4 class="features_title">Digital Business</h4>
+            <h4 class="features_title">Gestão Empresarial</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              Gestão empresarial é uma estratégia de condução de negócios a melhores resultados, partindo de ações que envolvem a organização de processos, o controle das finanças, a administração dos recursos humanos e materiais e tudo aquilo que é essencial para a sua manutenção.
             </p>
           </div>
         </div>
@@ -307,10 +344,9 @@
             data-wow-delay="0.3s"
           >
             <i class="lni lni-clipboard"></i>
-            <h4 class="features_title">Startup Business</h4>
+            <h4 class="features_title">Planejamento Fiscal</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              O planejamento fiscal ou planejamento fiscal é uma forma de minimizar os custos fiscais. Sucintamente, o planejamento fiscal terá de respeitar a lei de forma integral, procurando no entanto negócios jurídicos com menor ou nula tributação. Esta é uma atividade lícita, e devidamente tutelada na forma jurídica.
             </p>
           </div>
         </div>
@@ -321,7 +357,7 @@
             data-wow-delay="0.4s"
           >
             <i class="lni lni-target-revenue"></i>
-            <h4 class="features_title">Business Investment</h4>
+            <h4 class="features_title">Contabilidade Consultiva</h4>
             <p>
               Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
               eirmod tempor invidunt labor dolore magna .
