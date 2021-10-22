@@ -180,8 +180,8 @@ export default {
   data() {
     return {
       fields: {
-        EmailDestinatario: "genuinoalexsander@gmail.com",
-        EmailRemetente: "alexsander.genuino.silva@gmail.com",
+        EmailDestinatario: "",
+        EmailRemetente: "",
         ClientAssunto: "",
         ClientName: "",
         ClientMail: "",
@@ -194,7 +194,7 @@ export default {
     SendMail(e) {
       e.preventDefault()
       axios
-        .post("http://localhost:45119/api/Login/SendEmail", this.fields)
+        .post("http://localhost:45119/api/SendMail", this.fields)
         .then((res) => {
 
             this.onSuccess(res.data.message)
