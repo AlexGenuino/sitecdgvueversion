@@ -55,13 +55,40 @@
       </div>
     </div>
   </div>
-  <div class="rodape_style">
-    <h1 id="text_footer">Contabilidade em Monte Mor - SP</h1>
-    <h1 id="text_footer">2021 - Todos os direitos reservados</h1>
-      <a id="tag_a_dev" href="https://github.com/AlexGenuino"
-        >Desenvolvido por Alexsander Genuino</a
-      >
+  <div class="content_rodape_style">
+    <div class="rodape_style">
+      <h1 id="text_footer">Contabilidade em Monte Mor - SP</h1>
+      <h1 id="text_footer">2021 - Todos os direitos reservados</h1>
+        <a id="tag_a_dev" href="https://github.com/AlexGenuino"
+          >Desenvolvido por Alexsander Genuino</a
+        >
+    </div>
   </div>
+  <footer id="footer" class="footer_area">
+    <div class="container">
+      <div
+        class="
+          footer_wrapper
+          text-center
+          d-lg-flex
+          align-items-center
+          justify-content-between
+        "
+      >
+        
+        <div class="footer_social pt-15">
+          <ul>
+            <li>
+              <a href="#"><i class="lni lni-facebook-original"></i></a>
+            </li>
+            <li>
+              <a href="#"><i class="lni lni-instagram-original"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
 </template>
 
 <script>
@@ -74,6 +101,28 @@ export default {
 :root {
   --text-size: 14px;
   --line-size-height: 28px;
+}
+
+@media (min-width: 1441px) {
+    .footer_area {
+      display: none;
+    }
+}
+
+@media (max-width: 1440px) {
+  :root {
+    --text-size: 14px;
+    --line-size-height: 20px;
+  }
+  .container_principal {
+    width: 100%;
+    height: 50vh;
+    background: white;
+    display: none;
+  }
+  .content_rodape_style {
+    display: none;
+  }
 }
 
 @media (max-width: 1025px) {

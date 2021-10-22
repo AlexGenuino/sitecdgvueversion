@@ -275,13 +275,13 @@
                   Comece com os fundadores originais e as suas razões para começar o negócio.
                 </p>
               </div>
-              <a
+              <!--<a
                 href="#"
                 class="main-btn wow fadeInUp"
                 data-wow-duration="1.3s"
                 data-wow-delay="0.7s"
                 >Saiba Mais</a
-              >
+              >-->
             </div>
           </div>
         </div>
@@ -290,7 +290,7 @@
         class="about_image bg_cover wow fadeInLeft"
         data-wow-duration="1.3s"
         data-wow-delay="0.2s"
-        style="background-image: url(assets/images/about.jpg)"
+        style="size:80 ; background-image: url(assets/images/CDGLOGO.png)"
       >
         <!-- 
         <div class="image_content">
@@ -356,11 +356,16 @@
             data-wow-duration="1.3s"
             data-wow-delay="0.4s"
           >
-            <i class="lni lni-target-revenue"></i>
-            <h4 class="features_title">Contabilidade Consultiva</h4>
+            <i class="lni lni-handshake"></i>
+            <h4 class="features_title">Assessoria Trabalhista</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              Apurar e emitir os contracheques dos colaboradores;
+              Calcular o pró-labore dos sócios ou recibo do único proprietário da empresa;
+              Emitir as guias do INSS, FGTS e do Imposto de Renda Retido na Fonte (IRRF);
+              Processar a Folha de Pagamento (incluindo 13° salário e pagamento de férias);
+              Fazer os relatórios dos dados da Folha para o Fisco trabalhista;
+              Processar a documentação nos casos de admissão e demissão;
+              Preencher o Cadastro Geral de Empregados e Desempregados (CAGED).     
             </p>
           </div>
         </div>
@@ -371,10 +376,9 @@
             data-wow-delay="0.2s"
           >
             <i class="lni lni-invention"></i>
-            <h4 class="features_title">Business Solutions</h4>
+            <h4 class="features_title">Planejamento Tributário</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              Esse serviço contábil ajuda a empresa a economizar ao estudar os detalhes da legislação tributária, reduzindo a carga de impostos incidente e ainda cumprindo as normas corretamente. A assessoria deve ser feita por um contador confiável, para não acabar interpretando equivocadamente as leis e isso prejudicar o negócio.
             </p>
           </div>
         </div>
@@ -384,11 +388,12 @@
             data-wow-duration="1.3s"
             data-wow-delay="0.3s"
           >
-            <i class="lni lni-bar-chart"></i>
-            <h4 class="features_title">Business Analysis</h4>
+            <i class="lni lni-invest-monitor"></i>
+            <h4 class="features_title">Assessoria para Gestão Financeira</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              Outro serviço estratégico que o contador pode fazer é contribuir para a gestão financeira, oferecendo dados que irão amparar a tomada de decisão e analisando o desempenho da área. O profissional pode trazer informações relevantes para os administradores, que passariam despercebidas sem sua participação.
+
+Assim, a empresa ganha ao contar com mais um serviço contábil especializado para traçar seu caminho para o sucesso.
             </p>
           </div>
         </div>
@@ -399,10 +404,14 @@
             data-wow-delay="0.4s"
           >
             <i class="lni lni-calendar"></i>
-            <h4 class="features_title">Consulting Business</h4>
+            <h4 class="features_title">Entrega das Obrigações Acessórias</h4>
             <p>
-              Lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy
-              eirmod tempor invidunt labor dolore magna .
+              Dseclaração de Informações Socioeconômicas e Fiscais (DEFIS) — para optantes do Simples Nacional;
+Documento de Arrecadação do Simples Nacional (DAS);
+Declaração de Débitos Tributários Federais (DCTF) — optantes do Lucro Presumido, Lucro Real e, em alguns casos, também o Simples Nacional;
+Declaração de Imposto Retido na Fonte (DIRF);
+Relação Anual de Informações Sociais (RAIS);
+Entre outros.
             </p>
           </div>
         </div>
@@ -420,7 +429,7 @@
               data-wow-duration="1.3s"
               data-wow-delay="0.2s"
             >
-              Our Portfolio
+              Nosso Espaço
             </h4>
             <p
               class="wow fadeInUp"
@@ -440,7 +449,7 @@
         data-wow-duration="1.3s"
         data-wow-delay="0.2s"
       >
-        <img src="assets/images/portfolio-1.jpg" alt="portfolio" />
+        <img src="assets/images/ImgCDG/IMG_2021.jpg" alt="portfolio" />
         <div class="portfolio_content">
           <ul class="meta">
             <li>
@@ -455,7 +464,7 @@
         data-wow-duration="1.3s"
         data-wow-delay="0.3s"
       >
-        <img src="assets/images/portfolio-2.jpg" alt="portfolio" />
+        <img src="assets/images/ImgCDG/IMG_2024.jpg" alt="portfolio" />
         <div class="portfolio_content">
           <ul class="meta">
             <li>
@@ -470,173 +479,32 @@
         data-wow-duration="1.3s"
         data-wow-delay="0.4s"
       >
-        <img src="assets/images/portfolio-3.jpg" alt="portfolio" />
-        <div class="portfolio_content">
+        <img src="assets/images/ImgCDG/IMG_2523.jpg" alt="portfolio" />
+        <!--<div class="portfolio_content">
           <ul class="meta">
             <li>
               <a href="#"><i class="lni lni-link"></i></a>
             </li>
           </ul>
           <h5 class="portfolio_title">Creative Projects</h5>
-        </div>
+        </div>-->
       </div>
       <div
         class="single_portfolio wow fadeInUp"
         data-wow-duration="1.3s"
         data-wow-delay="0.5s"
       >
-        <img src="assets/images/portfolio-4.jpg" alt="portfolio" />
-        <div class="portfolio_content">
+        <img src="assets/images/ImgCDG/IMG_2577.jpg" alt="portfolio" />
+        <!--<div class="portfolio_content">
           <ul class="meta">
             <li>
               <a href="#"><i class="lni lni-link"></i></a>
             </li>
           </ul>
           <h5 class="portfolio_title">UI/UX Projects</h5>
-        </div>
+        </div>-->
       </div>
-      <div
-        class="single_portfolio wow fadeInUp"
-        data-wow-duration="1.3s"
-        data-wow-delay="0.2s"
-      >
-        <img src="assets/images/portfolio-5.jpg" alt="portfolio" />
-        <div class="portfolio_content">
-          <ul class="meta">
-            <li>
-              <a href="#"><i class="lni lni-link"></i></a>
-            </li>
-          </ul>
-          <h5 class="portfolio_title">App Development</h5>
-        </div>
-      </div>
-      <div
-        class="single_portfolio wow fadeInUp"
-        data-wow-duration="1.3s"
-        data-wow-delay="0.3s"
-      >
-        <img src="assets/images/portfolio-6.jpg" alt="portfolio" />
-        <div class="portfolio_content">
-          <ul class="meta">
-            <li>
-              <a href="#"><i class="lni lni-link"></i></a>
-            </li>
-          </ul>
-          <h5 class="portfolio_title">Web Development</h5>
-        </div>
-      </div>
-      <div
-        class="single_portfolio wow fadeInUp"
-        data-wow-duration="1.3s"
-        data-wow-delay="0.4s"
-      >
-        <img src="assets/images/portfolio-7.jpg" alt="portfolio" />
-        <div class="portfolio_content">
-          <ul class="meta">
-            <li>
-              <a href="#"><i class="lni lni-link"></i></a>
-            </li>
-          </ul>
-          <h5 class="portfolio_title">Business Card Design</h5>
-        </div>
-      </div>
-      <div
-        class="single_portfolio wow fadeInUp"
-        data-wow-duration="1.3s"
-        data-wow-delay="0.5s"
-      >
-        <img src="assets/images/portfolio-8.jpg" alt="portfolio" />
-        <div class="portfolio_content">
-          <ul class="meta">
-            <li>
-              <a href="#"><i class="lni lni-link"></i></a>
-            </li>
-          </ul>
-          <h5 class="portfolio_title">Consulting Business</h5>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="pricing" class="pricing_area pt-120 pb-130">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-6">
-          <div class="section_title text-center pb-25">
-            <h4
-              class="title wow fadeInUp"
-              data-wow-duration="1.3s"
-              data-wow-delay="0.2s"
-            >
-              Pricing Plans
-            </h4>
-            <p
-              class="wow fadeInUp"
-              data-wow-duration="1.3s"
-              data-wow-delay="0.4s"
-            >
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt labor dolore.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_pricing text-center mt-30 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.2s"
-          >
-            <h4 class="pricing_title">Startup</h4>
-            <span class="price">$240</span>
-            <ul class="pricing_list">
-              <li>Startup Business</li>
-              <li>Business Consulting</li>
-              <li>Business Analysis</li>
-              <li>Corporate Business</li>
-              <li>Business Investment</li>
-            </ul>
-            <a href="#" class="mian-btn">Order Now</a>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_pricing text-center mt-30 active wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.3s"
-          >
-            <h4 class="pricing_title">Agency</h4>
-            <span class="price">$340</span>
-            <ul class="pricing_list">
-              <li>Startup Business</li>
-              <li>Business Consulting</li>
-              <li>Business Analysis</li>
-              <li>Corporate Business</li>
-              <li>Business Investment</li>
-            </ul>
-            <a href="#" class="mian-btn">Order Now</a>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_pricing text-center mt-30 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.4s"
-          >
-            <h4 class="pricing_title">Enterprise</h4>
-            <span class="price">$440</span>
-            <ul class="pricing_list">
-              <li>Startup Business</li>
-              <li>Business Consulting</li>
-              <li>Business Analysis</li>
-              <li>Corporate Business</li>
-              <li>Business Investment</li>
-            </ul>
-            <a href="#" class="mian-btn">Order Now</a>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </section>
 
@@ -650,7 +518,7 @@
               data-wow-duration="1.3s"
               data-wow-delay="0.2s"
             >
-              Meet The Team
+              Conheça o Time
             </h4>
             <p
               class="wow fadeInUp"
@@ -670,17 +538,17 @@
             data-wow-duration="1.3s"
             data-wow-delay="0.2s"
           >
-            <img src="assets/images/team-1.jpg" alt="team" />
+            <img src="assets/images/team/team-1.jpg" alt="team" />
             <div class="team_content">
-              <h4 class="team_name"><a href="#">Jassa.</a></h4>
-              <p>Head Of Ideas</p>
+              <h4 class="team_name"><a href="#">Marcelina Pereira</a></h4>
+              <!--<p>Head Of Ideas</p>-->
               <ul class="social">
-                <li>
+                <!--<li>
                   <a href="#"><i class="lni lni-facebook-filled"></i></a>
                 </li>
                 <li>
                   <a href="#"><i class="lni lni-twitter-original"></i></a>
-                </li>
+                </li>-->
                 <li>
                   <a href="#"><i class="lni lni-linkedin-original"></i></a>
                 </li>
@@ -694,19 +562,19 @@
             data-wow-duration="1.3s"
             data-wow-delay="0.3s"
           >
-            <img src="assets/images/team-2.jpg" alt="team" />
+            <img src="assets/images/team/team-2.jpg" alt="team" />
             <div class="team_content">
-              <h4 class="team_name"><a href="#">Nancy L.</a></h4>
-              <p>UX Designer</p>
+              <h4 class="team_name"><a href="#">Gabrielly Faria</a></h4>
+              <!--<p>UX Designer</p>-->
               <ul class="social">
-                <li>
+                <!--<li>
                   <a href="#"><i class="lni lni-facebook-filled"></i></a>
                 </li>
                 <li>
                   <a href="#"><i class="lni lni-twitter-original"></i></a>
-                </li>
+                </li>-->
                 <li>
-                  <a href="#"><i class="lni lni-linkedin-original"></i></a>
+                  <a href="https://www.linkedin.com/in/gabrielly-faria-8b78651a3/" target="_blank"><i class="lni lni-linkedin-original"></i></a>
                 </li>
               </ul>
             </div>
@@ -718,78 +586,21 @@
             data-wow-duration="1.3s"
             data-wow-delay="0.4s"
           >
-            <img src="assets/images/team-3.jpg" alt="team" />
+            <img src="assets/images/team/team-3.jpeg" alt="team" />
             <div class="team_content">
-              <h4 class="team_name"><a href="#">Michael P.</a></h4>
-              <p>Creative Designer</p>
+              <h4 class="team_name"><a href="#">Gabriela Pereira</a></h4>
+              <!--<p>Creative Designer</p>-->
               <ul class="social">
-                <li>
+                <!--<li>
                   <a href="#"><i class="lni lni-facebook-filled"></i></a>
                 </li>
                 <li>
                   <a href="#"><i class="lni lni-twitter-original"></i></a>
-                </li>
+                </li>-->
                 <li>
-                  <a href="#"><i class="lni lni-linkedin-original"></i></a>
+                  <a href="https://www.linkedin.com/in/gabrielapereiradasilva/" target="_blank"><i class="lni lni-linkedin-original"></i></a>
                 </li>
               </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section
-    id="testimonial"
-    class="testimonial_area pt-130 pb-130 bg_cover"
-    style="background-image: url(assets/images/testimonial.jpg)"
-  >
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-8">
-          <div class="glide testimonial_active">
-            <div class="glide__track" data-glide-el="track">
-              <div class="glide__slides">
-                <div class="glide__slide single_testimonial text-center">
-                  <img src="assets/images/author-1.jpg" alt="author" />
-                  <h5 class="author_name">Linda</h5>
-                  <span>UX Specialist, Yoast</span>
-                  <p>
-                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    aliquyam erat, sed diam voluptua. At vero eos accusam et
-                    justo duo dolores et ea rebum. Stet clita kasd gubergren.
-                  </p>
-                </div>
-                <div class="glide__slide single_testimonial text-center">
-                  <img src="assets/images/author-2.jpg" alt="author" />
-                  <h5 class="author_name">Nancy</h5>
-                  <span>Sr. Software Engineer</span>
-                  <p>
-                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    aliquyam erat, sed diam voluptua. At vero eos accusam et
-                    justo duo dolores et ea rebum. Stet clita kasd gubergren.
-                  </p>
-                </div>
-                <div class="glide__slide single_testimonial text-center">
-                  <img src="assets/images/author-3.jpg" alt="author" />
-                  <h5 class="author_name">Elon Musk</h5>
-                  <span>Creaitve Businessman</span>
-                  <p>
-                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                    aliquyam erat, sed diam voluptua. At vero eos accusam et
-                    justo duo dolores et ea rebum. Stet clita kasd gubergren.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="glide__bullets" data-glide-el="controls[nav]">
-              <button class="glide__bullet" data-glide-dir="=0"></button>
-              <button class="glide__bullet" data-glide-dir="=1"></button>
-              <button class="glide__bullet" data-glide-dir="=2"></button>
             </div>
           </div>
         </div>
@@ -811,36 +622,33 @@
               data-wow-duration="1.3s"
               data-wow-delay="0.2s"
             >
-              Contact Us
+              Contato
             </h4>
             <p
               class="wow fadeInUp"
               data-wow-duration="1.3s"
               data-wow-delay="0.4s"
             >
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt labor dolore.
+              Preencha o formulário e entraremos em contato para melhor atende-lo!
             </p>
           </div>
         </div>
       </div>
       <form
         id="contact-form"
-        action="assets/contact.php"
-        method="post"
         class="wow fadeInUp"
-        data-wow-duration="1.3s"
-        data-wow-delay="0.4s"
+        
       >
         <div class="row">
           <div class="col-lg-6">
             <div class="single_form">
               <input
                 type="text"
-                placeholder="Name"
+                placeholder="Nome"
                 name="name"
                 id="name"
                 required
+                v-model="fields.ClientName"
               />
             </div>
           </div>
@@ -852,6 +660,7 @@
                 name="email"
                 id="email"
                 required
+                v-model="fields.ClientMail"
               />
             </div>
           </div>
@@ -859,10 +668,11 @@
             <div class="single_form">
               <input
                 type="text"
-                placeholder="Phone Number"
+                placeholder="Número"
                 name="number"
                 id="number"
                 required
+                v-model="fields.ClientContato"
               />
             </div>
           </div>
@@ -870,27 +680,32 @@
             <div class="single_form">
               <input
                 type="text"
-                placeholder="Subject"
+                placeholder="Objetivo"
                 name="subject"
                 id="subject"
                 required
+                v-model="fields.ClientAssunto"
               />
             </div>
           </div>
           <div class="col-lg-12">
             <div class="single_form">
               <textarea
-                placeholder="Message"
+                placeholder="Mensagem"
                 name="message"
                 id="message"
                 required
+                v-model="fields.ClientMessage"
               ></textarea>
             </div>
           </div>
           <p class="form-message"></p>
           <div class="col-lg-12">
             <div class="single_form text-center">
-              <button class="main-btn" type="submit">SUBMIT</button>
+              <button 
+              class="main-btn" 
+              @click="SendMail()"
+              >Enviar</button>
             </div>
           </div>
         </div>
@@ -903,16 +718,43 @@
 
 
   
-  <a href="#" class="back-to-top"><i class="lni lni-chevron-up"></i></a>
+  <!--<a href="http://wa.me/5519993176589" target="_blank" class="back-to-top"><i class="lni lni-facebook-messenger"></i></a>-->
+  <a href="http://wa.me/5519993176589" target="_blank" class="back-to-top"><span id="back-to-top2" class="material-icons-outlined">
+whatsapp
+</span></a>
+  
 </template>
 
 <script>
 
 import Footer from './components/Footer.vue';
+import axios from "axios";
 
 export default {
+  
   components: {
     Footer
   },
+  data() {
+    return {
+      fields: {
+        EmailDestinatario:'genuinoalexsander@gmail.com',
+        EmailRemetente: 'alexsander.genuino.silva@gmail.com',
+        ClientAssunto:'',
+        ClientName:'',
+        ClientMail:'',
+        ClientContato:'',
+        ClientMessage:''
+    },
+  }
+  },
+  methods: {
+    SendMail(){
+      axios.post("http://localhost:45119/api/Login/SendEmail", this.fields)
+      .then((res) => {
+                     console.log(res.data)
+                 })
+    }
+  }
 };
 </script>
