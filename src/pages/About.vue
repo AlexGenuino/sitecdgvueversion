@@ -46,8 +46,8 @@
         class="about_image bg_cover wow fadeInLeft"
         data-wow-duration="1.3s"
         data-wow-delay="0.2s"
-        style="size: 80; background-image: url(assets/images/CDGLOGO.png)"
       >
+      <img style="margin-top:10%; margin-left:10%" src="assets/images/CDGsize50.png">
         <!-- 
         <div class="image_content">
           <h4 class="experience"><span>5</span> Years of Experience</h4>

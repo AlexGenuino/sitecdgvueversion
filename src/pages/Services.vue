@@ -121,7 +121,7 @@
             <i class="lni lni-calendar"></i>
             <h4 class="features_title">Entrega das Obrigações Acessórias</h4>
             <p>
-              Dseclaração de Informações Socioeconômicas e Fiscais (DEFIS) —
+              Declaração de Informações Socioeconômicas e Fiscais (DEFIS) —
               para optantes do Simples Nacional; Documento de Arrecadação do
               Simples Nacional (DAS); Declaração de Débitos Tributários Federais
               (DCTF) — optantes do Lucro Presumido, Lucro Real e, em alguns

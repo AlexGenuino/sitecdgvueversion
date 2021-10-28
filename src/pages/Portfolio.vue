@@ -11,14 +11,14 @@
             >
               Nosso Espaço
             </h4>
-            <p
+            <!--<p
               class="wow fadeInUp"
               data-wow-duration="1.3s"
               data-wow-delay="0.4s"
             >
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
               nonumy eirmod tempor invidunt labor dolore.
-            </p>
+            </p>-->
           </div>
         </div>
       </div>
@@ -30,14 +30,14 @@
         data-wow-delay="0.2s"
       >
         <img src="assets/images/ImgCDG/IMG_2021.jpg" alt="portfolio" />
-        <div class="portfolio_content">
+        <!--<div class="portfolio_content">
           <ul class="meta">
             <li>
               <a href="#"><i class="lni lni-link"></i></a>
             </li>
           </ul>
           <h5 class="portfolio_title">Logo And Branding</h5>
-        </div>
+        </div>-->
       </div>
       <div
         class="single_portfolio wow fadeInUp"
@@ -45,14 +45,14 @@
         data-wow-delay="0.3s"
       >
         <img src="assets/images/ImgCDG/IMG_2024.jpg" alt="portfolio" />
-        <div class="portfolio_content">
+        <!--<div class="portfolio_content">
           <ul class="meta">
             <li>
               <a href="#"><i class="lni lni-link"></i></a>
             </li>
           </ul>
           <h5 class="portfolio_title">Bootstrap 5 Project</h5>
-        </div>
+        </div>-->
       </div>
       <div
         class="single_portfolio wow fadeInUp"

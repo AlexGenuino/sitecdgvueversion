@@ -59,7 +59,7 @@
     <div class="rodape_style">
       <h1 id="text_footer">Contabilidade em Monte Mor - SP</h1>
       <h1 id="text_footer">2021 - Todos os direitos reservados</h1>
-        <a id="tag_a_dev" href="https://github.com/AlexGenuino"
+        <a id="tag_a_dev" target="_blank" href="https://alexgenuino.github.io/"
           >Desenvolvido por Alexsander Genuino</a
         >
     </div>

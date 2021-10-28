@@ -11,14 +11,14 @@
             >
               Conheça o Time
             </h4>
-            <p
+            <!--<p
               class="wow fadeInUp"
               data-wow-duration="1.3s"
               data-wow-delay="0.4s"
             >
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
               nonumy eirmod tempor invidunt labor dolore.
-            </p>
+            </p>-->
           </div>
         </div>
       </div>

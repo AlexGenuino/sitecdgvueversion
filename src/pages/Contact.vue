@@ -152,12 +152,12 @@ import { notify } from "notiwind";
 export default {
   //props: ['textconteudo', 'icon', 'title'],
     setup() {
-    function onFail(msg) {
+    function onFail() {
       notify(
         {
           group: "foo",
           title: "Falha",
-          text: msg,
+          text: "Mensagem não enviada tente novamente mais tarde",
         },
         4000
       );
@@ -180,8 +180,8 @@ export default {
   data() {
     return {
       fields: {
-        EmailDestinatario: "",
-        EmailRemetente: "",
+        EmailDestinatario: "genuinoalexsander@gmail.com",
+        EmailRemetente: "alexsander.genuino.silva@gmail.com",
         ClientAssunto: "",
         ClientName: "",
         ClientMail: "",
@@ -200,9 +200,7 @@ export default {
             this.onSuccess(res.data.message)
           
         })
-        .catch(err => {
-          this.onFail(err)
-        });
+        .catch(this.onFail());
     },
   },
 };
